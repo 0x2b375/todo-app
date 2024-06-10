@@ -1,5 +1,5 @@
 # React + Vite + Tailwind css
-This is simple to do app using react + tailwind css
+**This is simple To Do App**
 [![image](https://github.com/0x2b375/todo-app/assets/127694484/adf53269-346a-4bbc-a377-6d21ea2abe78)](https://github.com/SAWARATSUKI/KawaiiLogos)
 [![image](https://github.com/0x2b375/todo-app/assets/127694484/d29dc5be-eec2-48df-af14-505313e0894f)](https://github.com/SAWARATSUKI/KawaiiLogos)
 
